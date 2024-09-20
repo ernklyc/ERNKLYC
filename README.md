@@ -1,17 +1,12 @@
-<div align="center">
-  <h1>THIS GITHUB ACCOUNT HAS BEEN STOLEN MY NEW GITHUB ADDRESS IS ERNKLYC </h1>
-
-<a href="https://github.com/ernklyc">MY NEW GITHUB PROFILE LINK</a>
-
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnpnbXA0MWhibnM5bGhlN3oxYWZkZ2JqZnFlMjl6Ymoxa3g3YTY5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.gif" height="390">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnpnbXA0MWhibnM5bGhlN3oxYWZkZ2JqZnFlMjl6Ymoxa3g3YTY5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.gif" height="390">
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KLYCHUB&show_icons=true&locale=en&hide=contribs,issues&theme=github_dark&hide_border=true" alt="KLYCHUB Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KLYCHUB&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="KLYCHUB Languages">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=klychub&theme=github_dark&hide_border=true" alt="klychub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ERNKLYC&show_icons=true&locale=en&hide=contribs,issues&theme=github_dark&hide_border=true" alt="ERNKLYC Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ERNKLYC&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="ERNKLYC Languages">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ERNKLYC&theme=github_dark&hide_border=true" alt="ERNKLYC" />
 </div>
 
 ---
@@ -41,7 +36,7 @@
   <a href="https://www.linkedin.com/in/erenklyc/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://klychub.github.io/" target="_blank">
+  <a href="https://ernklyc.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Website-333333?style=flat&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
 </div>
