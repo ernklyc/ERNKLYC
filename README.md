@@ -2,6 +2,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ERNKLYC&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="ERNKLYC Languages">
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ERNKLYC&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="ERNKLYC Languages" width="100%">
+</div>
+
+
 <div align="center"> 
   <h3>Technologies & Tools</h3> <img src="https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter" alt="Flutter" /> 
   <img src="https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart" alt="Dart" /> 
