@@ -23,7 +23,6 @@
   <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" alt="Git" />
   <img src="https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma" alt="Figma" />
   <img src="https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/-Premiere_Pro-333333?style=flat&logo=adobe-premiere-pro" alt="Premiere Pro" />
 
 </div>
 
