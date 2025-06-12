@@ -12,6 +12,7 @@
   
   <img src="https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter" alt="Flutter" />
   <img src="https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart" alt="Dart" />
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity" alt="Unity" />
   <img src="https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5" alt="HTML5" />
