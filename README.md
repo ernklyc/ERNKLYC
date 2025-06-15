@@ -4,25 +4,56 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Mobile+Developer" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <a href="https://github.com/ERNKLYC">
+    <img src="https://img.shields.io/badge/MultiLanguage-13pt-blue?style=for-the-badge&logo=github&logoColor=white" alt="MultiLanguage" />
+  </a>
+  <a href="https://github.com/ERNKLYC">
+    <img src="https://img.shields.io/badge/Commits-550pt-green?style=for-the-badge&logo=git&logoColor=white" alt="Commits" />
+  </a>
+  <a href="https://github.com/ERNKLYC">
+    <img src="https://img.shields.io/badge/Repositories-23pt-purple?style=for-the-badge&logo=repository&logoColor=white" alt="Repositories" />
+  </a>
+  <a href="https://github.com/ERNKLYC">
+    <img src="https://img.shields.io/badge/Experience-Junior_Dev-orange?style=for-the-badge&logo=developer&logoColor=white" alt="Experience" />
+  </a>
+</div>
+
 ---
 
 ## 💻 Tech Stack
 
 <div align="center">
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-<br/>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+      </td>
+      <td align="center" width="100">
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+      </td>
+      <td align="center" width="100">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+      </td>
+      <td align="center" width="100">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+      </td>
+      <td align="center" width="100">
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      </td>
+      <td align="center" width="100">
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+      </td>
+      <td align="center" width="100">
+        <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
