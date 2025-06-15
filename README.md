@@ -1,6 +1,4 @@
 <div align="center">
-  
-  ---
 
 ## 📊 GitHub Analytics
 
@@ -16,8 +14,6 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ERNKLYC&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
-
----
   
 </div>
 
