@@ -1,6 +1,23 @@
 <div align="center">
   
-  ![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ERNKLYC&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true)
+  ---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ERNKLYC&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ERNKLYC&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ERNKLYC&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ERNKLYC&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
+
+---
   
 </div>
 
