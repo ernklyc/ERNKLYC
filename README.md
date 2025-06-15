@@ -1,11 +1,7 @@
 # Hi there, I'm Eren! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Mobile+Developer;Flutter+Enthusiast;UI%2FUX+Designer" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ERNKLYC&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Mobile+Developer" alt="Typing SVG" />
 </div>
 
 ---
@@ -42,6 +38,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ERNKLYC&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </div>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ERNKLYC&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
+
 ---
 
 ## 🤝 Let's Connect!
@@ -56,11 +56,4 @@
   <a href="mailto:your-email@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</div>
-
----
-
-<div align="center">
-  <h3>📱 Mobile Developer</h3>
-  <p>Crafting beautiful cross-platform mobile experiences with Flutter</p>
 </div>
