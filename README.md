@@ -7,10 +7,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ERNKLYC&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ERNKLYC&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</div>
-
 ---
 
 <div align="center">
