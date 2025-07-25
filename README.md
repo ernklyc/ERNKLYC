@@ -11,12 +11,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ERNKLYC&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ERNKLYC&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-  
-</div>
-
 ---
 
 <div align="center">
