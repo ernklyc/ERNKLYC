@@ -1,4 +1,4 @@
-## Eren Kalaycı
+## Eren KALAYCI
 
 Flutter ve Swift ile mobil uygulamalar, Unity ile oyunlar geliştiriyorum.
 
